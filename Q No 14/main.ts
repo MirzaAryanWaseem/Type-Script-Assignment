@@ -4,7 +4,7 @@ for (let index = 0; index < party.length; index++) {
 console.log(`${party[index]} you have invited to party.`);
 
     
-}
+}//for loop
 
 //Q no 15
 // let party2=["Qasim","Junaid","Hammad","Naveed"]
