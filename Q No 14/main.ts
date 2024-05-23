@@ -1,6 +1,6 @@
 //Q no 14
 let party=["Qasim","Junaid","Hammad","Naveed"]
-for (let index = 0; index < party.length; index++) {
+for (let index = 1; index < party.length; index++) {
 console.log(`${party[index]} you have invited to party.`);
 
     

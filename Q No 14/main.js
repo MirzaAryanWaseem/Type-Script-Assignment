@@ -1,6 +1,6 @@
 //Q no 14
 var party = ["Qasim", "Junaid", "Hammad", "Naveed"];
-for (var index = 0; index < party.length; index++) {
+for (var index = 1; index < party.length; index++) {
     console.log("".concat(party[index], " you have invited to party."));
 } //for loop
 //Q no 15
