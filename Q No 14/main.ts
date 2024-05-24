@@ -5,11 +5,5 @@ console.log(`${party[index]} you have invited to party.`);
 
     
 }//for loop
-
+// i=1 means starting from 1 value that is junaid in array
 //Q no 15
-// let party2=["Qasim","Junaid","Hammad","Naveed"]
-// for (let index2 = 0; index2 < party2.length; index2++) {
-// console.log(`${party2[index2]} you have invited to party.`);
-
-
-// }
