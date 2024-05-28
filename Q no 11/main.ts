@@ -5,6 +5,8 @@ console.log(`${Name[0]}`);
 console.log(`${Name[1]}`);
 console.log(`${Name[2]}`);
 console.log(`${Name[3]}`);
+//array starting from zero
+//ex: 1 is hammad
 //Q no 11 (Other Method)
  let Names=["Qasim","Hammad","Junaid","Naveed"]
 for (let index = 0; index < Names.length; index++) {
