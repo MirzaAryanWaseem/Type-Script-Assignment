@@ -7,5 +7,5 @@ console.log(32 / 4);
 console.log("Hello World");
 console.log(23 + 46);
 var userName = "Aryan";
-console.log("Hello from ".concat(userName, ",with using Type Script"));
+console.log("Hello from ".concat(userName, ",with using Type Script")); //firstly store name in variable than its print
 console.log(2 + 3);
