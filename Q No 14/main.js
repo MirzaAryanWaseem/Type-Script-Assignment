@@ -7,8 +7,10 @@ for (var index = 0; index < party.length; index++) {
 // index < party length means break when array completed
 //Q no 15
 var party2 = ["Qasim", "Junaid", "Hammad", "Naveed"];
-for (var index = 0; index < party.length; index++) {
+for (var index = 0; index < party2.length; index++) {
     console.log("".concat(party2[index], " you have invited to party."));
+}
+for (var index = 0; index < party2.length; index++) {
     party2.pop();
     party2.push("Mozammil");
     console.log("".concat(party2[index], " you have invited to party."));
