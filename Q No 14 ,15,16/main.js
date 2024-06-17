@@ -15,3 +15,12 @@ for (var index = 0; index < party2.length; index++) {
     party2.push("Mozammil");
     console.log("".concat(party2[index], " you have invited to party."));
 }
+// // Q no 16
+// let party3=["Qasim","Junaid","Hammad","Naveed"]
+// for (let index = 0; index < party3.length ; index++) {
+// // console.log(`${party3[index]} you have invited to party.`);}
+// for (let index = 0; index < party2.length ; index++){
+// party2.push("Mozammil");
+// //party2.unshift('Zain');
+// //party3.splice(3,0,"Faizan");
+// console.log(`${party2[index]} you have invited to party.`);}
