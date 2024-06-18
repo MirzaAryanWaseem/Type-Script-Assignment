@@ -11,8 +11,8 @@ for (var index = 0; index < party2.length; index++) {
     console.log("".concat(party2[index], " you have invited to party."));
 }
 for (var index = 0; index < party2.length; index++) {
-    party2.pop();
-    party2.push("Mozammil");
+    party2.pop(); //this removes the last element from the array
+    party2.push("Mozammil"); //this adds element in the last of the array
     console.log("".concat(party2[index], " you have invited to party."));
 }
 // // Q no 16
