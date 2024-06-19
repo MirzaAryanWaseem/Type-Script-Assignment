@@ -6,7 +6,7 @@ for (var index = 0; index < party.length; index++) {
 // i=1 means starting from 1 value that is junaid in array
 // index < party length means break when array completed
 //Q no 15
-var party2 = ["Qasim", "Junaid", "Hammad", "Naveed"];
+var party2 = ["Qasim", "Junaid", "Hammad", "Naveed"]; // old guest list
 for (var index = 0; index < party2.length; index++) {
     console.log("".concat(party2[index], " you have invited to party."));
 }
