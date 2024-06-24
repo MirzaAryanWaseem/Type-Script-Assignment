@@ -15,6 +15,8 @@ for (let index = 0; index < party2.length ; index++){
 party2.pop();//this removes the last element from the array
 party2.push("Mozammil");//this adds element in the last of the array
 console.log(`${party2[index]} you have invited to party.`);}
+console.log(`...............end q no 15..............`);
+
 // // Q no 16
 // let party3=["Qasim","Junaid","Hammad","Naveed"]
 // for (let index = 0; index < party3.length ; index++) {
