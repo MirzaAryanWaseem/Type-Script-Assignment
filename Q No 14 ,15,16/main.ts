@@ -1,5 +1,5 @@
 //Q no 14
-let party=["Qasim","Junaid","Hammad","Naveed"]
+let party=["Qasim","Junaid","Hammad","Naveed"]//array
 for (let index = 0; index < party.length ; index++) {
 console.log(`${party[index]} you have invited to party.`);
 
