@@ -25,6 +25,16 @@ console.log(`My Name is ${Obj.Name}.`);
 console.log(`I am ${Obj.Age} years old.`);
 console.log(`I am a ${Obj.Profession}.`);
 console.log(`\n..........End Q no 21...........\n`);
+//Q no 22
+//Task#22:Intentional Error: If you haven’t received an array index error in one of your programs yet, try to make one happen. Change an index in one of your programs to produce an index error.
+// Make sure you correct the error before closing the program.
+let array=["Ali",17,"Student"];
+
+console.log(`Produce an index error:`);
+console.log(array[3]);
+console.log(`\nCorrect index error:`);
+console.log(array[2]);
+console.log(`.....End q no 22.....`);
 
 
 
